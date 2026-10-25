@@ -3,10 +3,6 @@
     internal class Program
     {
         public delegate int Op(int value);
-        static public void Call()
-        {
-
-        }
 
         static public int Apply(Op fn, int val )
         {
