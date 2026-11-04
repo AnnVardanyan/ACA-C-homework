@@ -61,6 +61,7 @@
 
                 List = newList;
                 List = newList;
+                Count--;
             }
         }
 

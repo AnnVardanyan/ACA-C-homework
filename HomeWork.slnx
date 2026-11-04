@@ -1,3 +1,11 @@
 <Solution>
   <Project Path="BestAttempt/BestAttempt.csproj" />
+  <Project Path="ColdWorkingSensors/ColdWorkingSensors.csproj" />
+  <Project Path="ConsoleApp2/Libraries.csproj" Id="47897c43-1ad8-4dbc-aa89-98309aac8b9d" />
+  <Project Path="Delegates/Delegates.csproj" Id="88d1bab1-2c2a-4376-9a9e-fc66b13f5830" />
+  <Project Path="IntList/IntList.csproj" Id="9114d23e-6060-4e68-a919-8209dc46d24a" />
+  <Project Path="IntQueue/IntQueue.csproj" Id="2489d1e6-bd18-45cc-a33e-0a6bc1ceb570" />
+  <Project Path="IntStack/IntStack.csproj" Id="0a38d8af-8134-44ff-9ec8-b80543994d28" />
+  <Project Path="Matrix.Values.Above.A.Limit/ValuesAboveALimit.csproj" />
+  <Project Path="Tic-Tac_Toe/Tic-Tac_Toe.csproj" Id="5fa8a9df-a703-4a99-a55b-3bc51e643076" />
 </Solution>
